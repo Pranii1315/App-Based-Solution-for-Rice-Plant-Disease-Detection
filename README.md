@@ -1,4 +1,4 @@
-Rice Plant Disease Detection Application- i have uploaded the model and the code for it , use android studio and kotlin for the in built libraries for easy creation of the application
+Rice Plant Disease Detection Application- i have uploaded the model and the code for it , use android studio and kotlin for the in built libraries for easy creation of the application , will upload the code for the application soon
 
 Project Overview
 The present project undertakes the objective to develop an application meant for mobile bases with the objective of assisting farmers to get proper real-time identification of rice plant diseases through the adaptation of sophisticated deep learning techniques. The application is implemented using Kotlin and supports intervention by also recommending appropriate and prompt interventions while identifying prevalent rice diseases accurately.
