@@ -57,9 +57,9 @@ Performance of Model
 Cumulative Precision: 98.8%
 Individual sickness detection
 Bacterial Blight: 99.1%
-Sheath Rot: 98.7% 
-Brown Spot: 98.5% 
-Healthy Leaves: 99.2% 
+Sheath Rot: 98.75% 
+Brown Spot: 98.50% 
+Healthy Leaves: 99.25% 
 Inference Time: Less than 1 second per image on a mid-range device.
 Battery Efficiency: Lower energy consumption enables high-level use in real-world environments.
 
