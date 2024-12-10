@@ -63,3 +63,4 @@ Healthy Leaves: 99.25%
 Inference Time: Less than 1 second per image on a mid-range device.
 Battery Efficiency: Lower energy consumption enables high-level use in real-world environments.
 
+![img of no leaf](https://github.com/user-attachments/assets/9c27a58e-b239-4524-b62f-7818f9567af4)
