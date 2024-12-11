@@ -1,3 +1,5 @@
+![Untitled_Export_V1](https://github.com/user-attachments/assets/20a47ee4-46bb-4e7f-8ace-8b9b96c635e6)
+
 Rice Plant Disease Detection Application-In this project we have mainly focused on 3 diseases namely Bacterial Blight, BrownSpot and SheathRot, i have uploaded the model and the code for it , use android studio and kotlin for the in built libraries for easy creation of the application , will upload the code for the application soon,Read this file for better understanding of the model
 
 Project Overview
@@ -57,9 +59,8 @@ Performance of Model
 Cumulative Precision: 98.8%
 Individual sickness detection
 Bacterial Blight: 99.1%
-Sheath Rot: 98.7% 
-Brown Spot: 98.5% 
-Healthy Leaves: 99.2% 
+Sheath Rot: 98.75% 
+Brown Spot: 98.50% 
+Healthy Leaves: 99.25% 
 Inference Time: Less than 1 second per image on a mid-range device.
 Battery Efficiency: Lower energy consumption enables high-level use in real-world environments.
-
